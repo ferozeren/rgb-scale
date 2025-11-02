@@ -8,7 +8,7 @@ Simple CLI for scalling RGB values.
 
 ## Installation
 
-You can grab the binary from the [release]() or you can build and install it.
+You can grab the binary from the [release](https://github.com/ferozeren/rgb-scale/releases/tag/0.1.0) or you can build and install it.
 
 Install to Rust's Default Binary Path.
 
